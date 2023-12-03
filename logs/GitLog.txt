@@ -1,0 +1,89 @@
+commit c10f53dbcca28575bf1f1d31d7e90d08e22131ba
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Thu Nov 16 01:30:27 2023 +0000
+
+    Updated the path in '01-A.R' file
+
+commit 21b8e1415808b59c875fd7facd4e9969063b7127
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Wed Nov 15 18:29:34 2023 +0000
+
+    The last small update in Rmarkdown report analysis
+
+commit 0d6822a709bf6b220424618ff8a4995424c8c7fc
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Wed Nov 15 16:35:24 2023 +0000
+
+    Final touches on the report and munge files
+
+commit 6493569e78f9e1ec8a66526d8d1bdf7e1e8559b5
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Nov 14 22:49:42 2023 +0000
+
+    Updated and finished the report analysis
+
+commit 5cc2d7510c756fc18d904cbfe7459a780ff939ca
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Nov 14 22:14:40 2023 +0000
+
+    Updated the munge file and the report analysis
+
+commit 17eb3965811ac31e7723d174babb3178ebf2b76c
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Nov 14 02:40:40 2023 +0000
+
+    Updated the analysis report
+
+commit 9af793bf2216da8010cad3161319ac6b3df3bb85
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Tue Nov 14 00:21:49 2023 +0000
+
+    Updated the '01-A.R file and the analysis report, almost finished the first cycle'
+
+commit 177d5484817d6bfe7c8f1b167d2a95c37350c8d1
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sun Nov 12 22:50:08 2023 +0000
+
+    Updated the '01-A.R' file and the analysis report up to Modelling phase
+
+commit 718b851cc610038825be8ddd3e1c8542afd4cbf4
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sun Nov 12 18:54:07 2023 +0000
+
+    Updated '01-A.R' file for data processing and made sure it works
+
+commit 89483aa03e1102fdbf760771e51a38cd1be7378f
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Sun Nov 12 18:32:45 2023 +0000
+
+    Updated the global configuration file
+
+commit ab96bfde8a4b3feea7e92fc6a59200d52a36f924
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Fri Nov 10 20:11:52 2023 +0000
+
+    Updated the analysis report
+
+commit d1f4686062558800464823b3da314c6d30dd2547
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Fri Nov 10 00:08:47 2023 +0000
+
+    Created the basic structure of my report analysis
+
+commit a90b52fd671ce4e8863fd8fb567ed22aa569b1ce
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Wed Nov 8 21:33:30 2023 +0000
+
+    Data files have been added
+
+commit 2f685fac6edec8989b90ce6a1d9f6166b47868ed
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Wed Nov 8 21:26:24 2023 +0000
+
+    Set up Rmarkdown
+
+commit a7bba6a9b25696a50d40b507a1996c0e75540249
+Author: dpoulimen0s <dpoulimenos.cs@gmail.com>
+Date:   Wed Nov 8 21:13:19 2023 +0000
+
+    Initial commit, set up ProjectTemplates
