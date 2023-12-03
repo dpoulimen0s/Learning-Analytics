@@ -7,7 +7,6 @@ This project is organized with the following structure:
 - **reports:**
   - `FutureLearn-Analysis-Report.pdf`: Main report file containing the analysis details.
   - `FutureLearn Analysis Report.Rmd`: Rmarkdown version of the analysis report containing all the code to generate the pdf.
-  - `Reflective Report.pdf`: Reflective report providing insights into the analysis process.
 
 - **log:**
   - `Gitlog.txt`: Git log file capturing version control history.
